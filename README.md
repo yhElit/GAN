@@ -1,5 +1,5 @@
 
-# CNN
+# GAN
 Implementation and testing of a simple Generative Adversarial Network (GAN) in Python
 
 **Note:**
